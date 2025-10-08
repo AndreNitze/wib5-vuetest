@@ -1,6 +1,7 @@
 # wib5-vue-cli
 
 Flo war hier lange nach mir
+Flo war gar nicht hier
 
 This template should help get you started developing with Vue 3 in Vite.
 Hallo ich bin hier 
